@@ -1,3 +1,5 @@
+[![CodeQL](https://github.com/KOSASIH/GeneLab_Data_Processing/actions/workflows/codeql-analysis.yml/badge.svg)](https://github.com/KOSASIH/GeneLab_Data_Processing/actions/workflows/codeql-analysis.yml)
+
 <img src="images/NASA_GeneLab_logo-2019.png" align="left" alt=""/>
 
 
